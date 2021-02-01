@@ -1,0 +1,25 @@
+
+$botoncolor: orange;
+
+header{
+    height: 500px;
+    background-image:  url("bu.jpg");
+    color: white;
+}
+.centro{
+    padding: 80px;
+}
+
+.btn {
+
+    background-color: $botoncolor;
+}
+.barra{
+
+    background: var(--bs-gradient);
+}
+.obj1{
+    
+    border: 0px;
+    width: 500px;
+}
